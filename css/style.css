@@ -1,0 +1,52 @@
+#search{
+  position: absolute;
+  top: 0px;
+  right: 30px;
+  width: 300px;
+  height: 0px;
+}
+
+#lk_info{
+  background: #DCDCDC;
+  font-size: 25px;
+  width: 500px;
+  margin-left: 25px; 
+}
+#my_orders{
+    margin-left: 25px; 
+    font-size: 25px;
+    text-decoration: none; /*убираем подчеркивание текста ссылок*/
+}
+#orders{
+  margin-top:0px;
+  width: 1150px;
+    margin-left: 30%; 
+
+    font-size: 25px;
+  background: #BEB1B1;
+  margin-top:50px; 
+}
+#order{
+  background: #BEB1B1;
+    width: 1150px;
+    margin-left: 30%; 
+
+    font-size: 25px;
+
+}
+
+#search_order{
+  width: 300px;
+}
+#lk{
+    margin-left: 50px;
+
+}
+.search_provider{
+  width: 300px;
+}
+
+#search_item{
+  height: 100px;
+  margin-left: 100px;
+}
